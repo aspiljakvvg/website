@@ -10,3 +10,5 @@ gledao sam po internetu tutoriale kako bih mozda uspio riješiti taj problem no 
 datoteke koje na kraju sadrže _admin.php su datoteke koje su trebale biti implementirane u XML jeziku i prijavi, no nije uspjelo
 
 registerc/loginc.php su datoteke copy (legacy datoteke)
+
+https://www.youtube.com/watch?v=P8oDCQdYJug
