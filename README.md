@@ -12,3 +12,5 @@ datoteke koje na kraju sadrže _admin.php su datoteke koje su trebale biti imple
 registerc/loginc.php su datoteke copy (legacy datoteke)
 
 https://www.youtube.com/watch?v=P8oDCQdYJug
+
+update: napravljen je rss feed unutar mainpage stranice koji je prije narusavao funkcionalnost stranice
